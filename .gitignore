@@ -9,6 +9,9 @@ node_modules
 /typechain
 /typechain-types
 
+# Openzeppelin
+/@openzeppelin
+
 # solidity-coverage files
 /coverage
 /coverage.json
